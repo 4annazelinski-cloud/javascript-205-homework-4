@@ -6,7 +6,7 @@ In this homework, you will practice working with **arrays, indexes, loops, array
 
 **Deadline:** Before the next workshop.
 
-**How to submit:** Push your homework to the same GitHub repository you used for the previous assignments, then create a **Pull Request** to the homework repository and add your instructor as a **Reviewer**.
+**How to submit:** Push your homework to the same GitHub repository, then create a **Pull Request** to the homework repository and add your instructor as a **Reviewer**.
 
 ---
 
